@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758664980378",
+    "project_id": "email-authentication-7a712",
+    "storage_bucket": "email-authentication-7a712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758664980378:android:728d2503318fbf04653c23",
+        "android_client_info": {
+          "package_name": "com.example.email_auntication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758664980378-b1ak0i203s4k1b2cdjr035en7efki7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAc2_tJ-2DGCTmP9dDl706GGqt9pfZV7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758664980378-b1ak0i203s4k1b2cdjr035en7efki7t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
